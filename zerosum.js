@@ -1,0 +1,2 @@
+console.log(null ?? undefined ?? 1);
+console.log(null ?? 'text' ?? undefined ?? 1);
